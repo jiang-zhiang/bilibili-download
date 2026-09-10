@@ -1,6 +1,6 @@
 # B站音频 / 视频下载
 
- ![image-20260910121120165](E:\git\bilibili-download\Test.png)
+ ![image-20260910121120165](.\Test.png)
 
 双击 `start.bat` 启动。首次启动会自动建立本地 Python 虚拟环境并安装 yt-dlp，需要联网。
 
